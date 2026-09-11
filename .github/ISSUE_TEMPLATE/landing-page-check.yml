@@ -1,0 +1,43 @@
+name: Landing-page conversion check
+description: Request the fixed-scope ¥9.9 review of one public product page.
+title: "Landing-page check request"
+labels:
+  - service-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Send one public URL and the action you want visitors to take. I will confirm scope, delivery time, and payment details before starting.
+
+        Do not include passwords, API keys, Apple IDs, verification codes, or other private information.
+  - type: input
+    id: page_url
+    attributes:
+      label: Public page URL
+      description: The one public landing page to review.
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: textarea
+    id: visitor_action
+    attributes:
+      label: Visitor action
+      description: What should a new visitor do next?
+      placeholder: Install the app, start a trial, or request a demo.
+    validations:
+      required: true
+  - type: input
+    id: reply_email
+    attributes:
+      label: Reply email
+      description: Where should I confirm scope and delivery time?
+      placeholder: you@example.com
+    validations:
+      required: true
+  - type: checkboxes
+    id: public_scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: The URL is publicly accessible and I have not included private credentials.
+          required: true
