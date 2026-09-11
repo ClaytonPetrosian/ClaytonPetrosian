@@ -10,3 +10,5 @@ I build small iOS products with focused, privacy-aware workflows.
 ## Small fixed-scope service
 
 [Landing-page conversion check](https://marketing-eight-steel.vercel.app/service) — a short evidence-backed review of one public page for ¥9.9, covering the headline, primary CTA, install/checkout path, and price clarity.
+
+Public service brief: [GitHub issue #1](https://github.com/ClaytonPetrosian/ClaytonPetrosian/issues/1).
