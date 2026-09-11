@@ -8,6 +8,7 @@ I build small iOS products with focused, privacy-aware workflows.
 - [Pacing Pro](https://apps.apple.com/us/app/pacing-pro/id6789387517?uo=4) — timed exam practice with total, section, and question clocks. SAT/ACT are free to try; a one-time unlock adds GRE, LSAT, and unlimited history. [Public product details](https://github.com/ClaytonPetrosian/pacing-pro-app).
 - [Fan Karma](https://apps.apple.com/us/app/fan-karma/id6781231587?uo=4) — a US$0.99 football fan companion for match-day energy with a real-time team karma tug-of-war. [Product page](https://marketing-eight-steel.vercel.app/fan-karma) · [Public details](https://github.com/ClaytonPetrosian/fan-karma-app).
 - [Earth News Atlas](https://apps.apple.com/us/app/earth-news-atlas/id6790123952?uo=4) — a US$0.99 interactive 3D globe for global headlines and public historical records. [Product page](https://marketing-eight-steel.vercel.app/earth-news) · [Public details](https://github.com/ClaytonPetrosian/earth-news-app).
+- [OmniDex](https://apps.apple.com/us/app/omnidex/id6780821102?uo=4) — privacy-first AI fish identification with a local catch journal. Start with 5 free IDs each month; Pro is US$4.99/month or US$29.99/year. [Product page](https://marketing-eight-steel.vercel.app/omnidex) · [Public details](https://github.com/ClaytonPetrosian/omnidex-app).
 
 ## Small fixed-scope service
 
