@@ -17,4 +17,4 @@ Public service brief: [GitHub issue #1](https://github.com/ClaytonPetrosian/Clay
 
 Request form: [send one public page](https://github.com/ClaytonPetrosian/ClaytonPetrosian/issues/new?template=landing-page-check.yml).
 
-[StoreKit / RevenueCat launch review](https://marketing-eight-steel.vercel.app/billing-review) — a fixed-scope US$49 review of one mobile purchase path, with a patch or evidence-backed report.
+[StoreKit / RevenueCat launch review](https://marketing-eight-steel.vercel.app/billing-review) — a fixed-scope US$49 review of one mobile purchase path, with a patch or evidence-backed report. [Request form](https://github.com/ClaytonPetrosian/ClaytonPetrosian/issues/new?template=billing-review.yml).
