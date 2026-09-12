@@ -1,0 +1,51 @@
+name: 3D globe prototype sprint
+description: Request the fixed-scope US$99 prototype or review of one interactive globe view.
+title: "3D globe sprint request"
+labels:
+  - service-request
+body:
+  - type: markdown
+    attributes:
+      value: |
+        I scope one interactive globe view with one marker interaction and return a runnable slice or focused integration notes. I confirm scope, delivery time, and payment details before starting.
+
+        Do not include passwords, API keys, signing files, private datasets, or other credentials.
+  - type: input
+    id: public_repo
+    attributes:
+      label: Public repository or brief
+      description: A public repository, branch, or redacted product brief.
+      placeholder: https://github.com/example/map-app/tree/globe
+    validations:
+      required: true
+  - type: input
+    id: map_stack
+    attributes:
+      label: Current map stack
+      description: For example, MapLibre GL, Three.js, Globe.gl, Leaflet, or a custom canvas.
+      placeholder: MapLibre GL + React
+    validations:
+      required: true
+  - type: textarea
+    id: marker_interaction
+    attributes:
+      label: Globe and marker slice
+      description: Describe the one camera treatment and marker interaction to prove first.
+      placeholder: Dark globe; click a marker to open a compact detail panel.
+    validations:
+      required: true
+  - type: input
+    id: reply_email
+    attributes:
+      label: Reply email
+      description: Where should I confirm scope and delivery time?
+      placeholder: you@example.com
+    validations:
+      required: true
+  - type: checkboxes
+    id: public_scope
+    attributes:
+      label: Scope confirmation
+      options:
+        - label: The materials are public or redacted and contain no private credentials.
+          required: true
